@@ -1,5 +1,5 @@
 # GPdatasetCreator
-This repository has programs to create the datasets required for GPNN (https://github.com/AgapovDP/GPNN) training.
+This repository has programs to create the datasets required for GPNN training. GPNN is a neural network for solving the ghost polarimetry problem in the formalism of Jones matrices.
 
 
 GPdataset.py - dataset class for GPNN training
@@ -13,3 +13,14 @@ GP_Generator.py - dataset generation software
   NumberOfObjects - number of objects in dataset;
   
   Noise           - value of noise.
+
+
+
+
+Step by step:
+
+1. Download this rep.
+2. Download Trained Weights for GPNN - https://drive.google.com/file/d/1ux1vYM6inBCmh2FVPyd0lG4Gf5smoTVt/view?usp=share_link .
+3. Open "name" script and specify the path to the downloaded weights.
+4. Specify the measured values of the correlation functions
+5. Run name 
