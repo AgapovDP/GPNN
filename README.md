@@ -24,3 +24,6 @@ Step by step:
 3. Open "name" script and specify the path to the downloaded weights.
 4. Specify the measured values of the correlation functions
 5. Run name 
+
+
+This work is supported by the Russian Science Foundation under grant No.21-12-00155.
