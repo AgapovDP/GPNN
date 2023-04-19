@@ -1,5 +1,6 @@
 # GPdatasetCreator
-This repository has programs to create the datasets required for GPNN training. GPNN is a neural network for solving the ghost polarimetry problem in the formalism of Jones matrices.
+GPNN is a neural network for solving the ghost polarimetry problem in the formalism of Jones matrices.
+This repository has programs to create the datasets required for GPNN training.
 
 
 GPdataset.py - dataset class for GPNN training
